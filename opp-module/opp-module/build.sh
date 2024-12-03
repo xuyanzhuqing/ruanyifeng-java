@@ -1,0 +1,1 @@
+javac -d bin src/module-info.java src/com/itranswarp/sample/*.java

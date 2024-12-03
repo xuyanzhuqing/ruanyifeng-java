@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/../Basic/Basic.iml" filepath="$PROJECT_DIR$/../Basic/Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ControlFlow/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/../ControlFlow/ControlFlow/ControlFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Helleworld.iml" filepath="$PROJECT_DIR$/Helleworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" filepath="$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Package/Package/Package.iml" filepath="$PROJECT_DIR$/../Package/Package/Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-string/core-string.iml" filepath="$PROJECT_DIR$/../core-string/core-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" filepath="$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" />
     </modules>
   </component>
 </project>
