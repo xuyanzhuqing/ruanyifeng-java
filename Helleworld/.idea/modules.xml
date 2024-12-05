@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Helleworld.iml" filepath="$PROJECT_DIR$/Helleworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" filepath="$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Package/Package/Package.iml" filepath="$PROJECT_DIR$/../Package/Package/Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-javaBean/core-javaBean.iml" filepath="$PROJECT_DIR$/../core-javaBean/core-javaBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-package/core-package.iml" filepath="$PROJECT_DIR$/../core-package/core-package.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-string/core-string.iml" filepath="$PROJECT_DIR$/../core-string/core-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" filepath="$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" />
     </modules>
