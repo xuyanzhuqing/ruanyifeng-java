@@ -7,11 +7,16 @@
       <module fileurl="file://$PROJECT_DIR$/Helleworld.iml" filepath="$PROJECT_DIR$/Helleworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" filepath="$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Package/Package/Package.iml" filepath="$PROJECT_DIR$/../Package/Package/Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-bigdecimal/core-bigdecimal.iml" filepath="$PROJECT_DIR$/../core-bigdecimal/core-bigdecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-biginteger/core-biginteger.iml" filepath="$PROJECT_DIR$/../core-biginteger/core-biginteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../core-common/core-common.iml" filepath="$PROJECT_DIR$/../core-common/core-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-enum/core-enum.iml" filepath="$PROJECT_DIR$/../core-enum/core-enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-javaBean/core-javaBean.iml" filepath="$PROJECT_DIR$/../core-javaBean/core-javaBean.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-package/core-package.iml" filepath="$PROJECT_DIR$/../core-package/core-package.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-record/core-record.iml" filepath="$PROJECT_DIR$/../core-record/core-record.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-string/core-string.iml" filepath="$PROJECT_DIR$/../core-string/core-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exception/exception.iml" filepath="$PROJECT_DIR$/../exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../log/log.iml" filepath="$PROJECT_DIR$/../log/log.iml" />
       <module fileurl="file://$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" filepath="$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" />
     </modules>
   </component>
