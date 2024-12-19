@@ -24,6 +24,5 @@ slf4j
  javac -d ./bin -cp ./lib/slf4j-api-1.7.26.jar ./src/com/itranswarp/learnjava/Slf4j.java
 ```
 
-```bash
-
+```bas
 ```
