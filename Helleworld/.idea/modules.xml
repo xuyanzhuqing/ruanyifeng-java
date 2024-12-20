@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Helleworld.iml" filepath="$PROJECT_DIR$/Helleworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" filepath="$PROJECT_DIR$/../ObjectOriented/ObjectOriented/ObjectOriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Package/Package/Package.iml" filepath="$PROJECT_DIR$/../Package/Package/Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../annotation/annotation.iml" filepath="$PROJECT_DIR$/../annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-bigdecimal/core-bigdecimal.iml" filepath="$PROJECT_DIR$/../core-bigdecimal/core-bigdecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-biginteger/core-biginteger.iml" filepath="$PROJECT_DIR$/../core-biginteger/core-biginteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/../core-common/core-common.iml" filepath="$PROJECT_DIR$/../core-common/core-common.iml" />
