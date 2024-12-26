@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hello">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opp-module/opp-module/hello.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

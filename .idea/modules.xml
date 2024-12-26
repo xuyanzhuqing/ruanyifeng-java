@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Helleworld/Helleworld.iml" filepath="$PROJECT_DIR$/Helleworld/Helleworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOriented/ObjectOriented.iml" filepath="$PROJECT_DIR$/ObjectOriented/ObjectOriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Package/Package.iml" filepath="$PROJECT_DIR$/Package/Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-bigdecimal/core-bigdecimal.iml" filepath="$PROJECT_DIR$/core-bigdecimal/core-bigdecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-biginteger/core-biginteger.iml" filepath="$PROJECT_DIR$/core-biginteger/core-biginteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-common/core-common.iml" filepath="$PROJECT_DIR$/core-common/core-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-enum/core-enum.iml" filepath="$PROJECT_DIR$/core-enum/core-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-javaBean/core-javaBean.iml" filepath="$PROJECT_DIR$/core-javaBean/core-javaBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-package/core-package.iml" filepath="$PROJECT_DIR$/core-package/core-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-record/core-record.iml" filepath="$PROJECT_DIR$/core-record/core-record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-string/core-string.iml" filepath="$PROJECT_DIR$/core-string/core-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log/log.iml" filepath="$PROJECT_DIR$/log/log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/properties/properties.iml" filepath="$PROJECT_DIR$/properties/properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflect/reflect.iml" filepath="$PROJECT_DIR$/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruyifeng-java.iml" filepath="$PROJECT_DIR$/ruyifeng-java.iml" />
+    </modules>
+  </component>
+</project>

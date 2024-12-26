@@ -2,8 +2,8 @@ package com.itranswarp.learnjava;
 
 import java.io.UnsupportedEncodingException;
 
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
+// import org.apache.commons.logging.Log;
+// import org.apache.commons.logging.LogFactory;
 
 /**
  * Learn Java from https://www.liaoxuefeng.com/
@@ -12,15 +12,15 @@ import org.apache.commons.logging.LogFactory;
  */
 public class Main {
 
-    static final Log log = LogFactory.getLog(Main.class);
-
-    public static void main(String[] args) {
-        log.info("Start process 233...");
-        try {
-            "".getBytes("invalidCharsetName");
-        } catch (UnsupportedEncodingException e) {
-            log.error("Invalid encoding.", e);
-        }
-        log.info("Process end.");
-    }
+    // static final Log log = LogFactory.getLog(Main.class);
+    //
+    // public static void main(String[] args) {
+    //     log.info("Start process 233...");
+    //     try {
+    //         "".getBytes("invalidCharsetName");
+    //     } catch (UnsupportedEncodingException e) {
+    //         log.error("Invalid encoding.", e);
+    //     }
+    //     log.info("Process end.");
+    // }
 }
