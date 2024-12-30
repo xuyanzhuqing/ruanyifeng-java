@@ -21,7 +21,7 @@ public class Example {
     return increase(x) + 1;
   }
 
-  /** 计算12500的 16 进制表示 */
+  /** 计算12500 的 16 进制表示 */
   static void demo2() {
     Deque<String> stack = new LinkedList<>();
 

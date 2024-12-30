@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/../core-string/core-string.iml" filepath="$PROJECT_DIR$/../core-string/core-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/../exception/exception.iml" filepath="$PROJECT_DIR$/../exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/../generics/generics.iml" filepath="$PROJECT_DIR$/../generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../io/io.iml" filepath="$PROJECT_DIR$/../io/io.iml" />
       <module fileurl="file://$PROJECT_DIR$/../log/log.iml" filepath="$PROJECT_DIR$/../log/log.iml" />
       <module fileurl="file://$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" filepath="$PROJECT_DIR$/../opp-module/opp-module/opp-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/../properties/properties.iml" filepath="$PROJECT_DIR$/../properties/properties.iml" />
